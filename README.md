@@ -1,12 +1,12 @@
-# Atestat Informatica 
+# Computer Science Certification Project
 
-Joc top-down 2D, facut in Unity pentru atestatul la informatica.
+Top-down 2D game made in Unity for the Computer Science certification project.
 
-## Prezentare generala
+## Overview
 
-Acest proiect a fost realizat in primavara lui 2026 pentru atestatul la informatica.
-Face parte dintr-o serie de jocuri facute acum ceva timp, ale caror cod sursa merita pus pe github.
+This project was created in spring 2026 for the Computer Science certification project.
+It is part of a series of games I made some time ago, whose source code is worth putting on GitHub.
 
-## Rularea jocului
+## Running the Game
 
-Acesta se poate gasi la: `https://mateeiii11.itch.io/`
+The game can be found at: `https://mateeiii11.itch.io/`
